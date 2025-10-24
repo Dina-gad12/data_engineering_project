@@ -1,0 +1,506 @@
+order_id,customer_id,order_date,shipping_date,shipping_cost,shipping_country,shipping_city,shipping_company,delivery_days,delivery_status,is_domestic
+ORD1173,CUST316,7/2/2025,7/10/2025,36.05,Cote D'Ivoire,West Donna,Usps,8,ontime,No
+ORD1274,CUST557,12/6/2024,12/15/2024,51.01,Isle Of Man,Mariafurt,Ups,9,ontime,No
+ORD1490,CUST890,2/8/2025,2/18/2025,74.84,Marshall Islands,Lake Tiffany,Ups,10,ontime,No
+ORD1072,CUST371,3/24/2025,4/6/2025,79.59,Liechtenstein,Rebeccaton,Ups,13,late,No
+ORD1305,CUST685,10/13/2024,10/19/2024,59.61,Jordan,East Ryanfurt,Ups,6,ontime,No
+ORD1076,CUST853,4/14/2025,4/23/2025,10.79,Algeria,North Sierraberg,Ups,9,ontime,No
+ORD1476,CUST661,7/1/2025,7/13/2025,62.84,Egypt,New Seanstad,Usps,12,late,No
+ORD1140,CUST788,7/28/2025,8/2/2025,26.34,Niue,North Heidi,Fedex,5,ontime,No
+ORD1470,CUST483,1/15/2025,1/19/2025,7.68,Gabon,West Desireebury,Dhl,4,ontime,No
+ORD1499,CUST465,12/8/2024,12/22/2024,79.18,Suriname,Barbaramouth,Ups,14,late,No
+ORD1218,CUST146,8/13/2025,8/14/2025,57.57,Mauritius,New Caseyport,Fedex,1,ontime,No
+ORD1009,CUST320,10/9/2024,10/22/2024,36.98,Micronesia,Mariastad,Dhl,13,late,No
+ORD1480,CUST711,3/17/2025,3/26/2025,6.56,Bermuda,Stokesmouth,Amazon Logistics,9,ontime,No
+ORD1078,CUST973,2/22/2025,3/3/2025,19.96,Brunei Darussalam,West Michaelton,Amazon Logistics,9,ontime,No
+ORD1322,CUST966,2/26/2025,3/11/2025,57.94,Kazakhstan,West Nathan,Dhl,13,late,No
+ORD1312,CUST743,3/8/2025,3/10/2025,90.82,Saudi Arabia,Maldonadoshire,Dhl,2,ontime,No
+ORD1124,CUST294,4/6/2025,4/11/2025,,San Marino,South Jeffrey,Usps,5,ontime,No
+ORD1384,CUST447,12/14/2024,12/20/2024,5.58,Brazil,Lake Jacobhaven,Fedex,6,ontime,No
+ORD1195,CUST766,6/29/2025,7/4/2025,63.51,Luxembourg,Wolfborough,Amazon Logistics,5,ontime,No
+ORD1447,CUST319,5/29/2025,6/4/2025,95.03,Mayotte,Huangfurt,Usps,6,ontime,No
+ORD1271,CUST448,5/9/2025,5/22/2025,53.24,North Macedonia,Oscarhaven,Dhl,13,late,No
+ORD1278,CUST144,7/21/2025,7/27/2025,75.75,Bulgaria,New Sueside,Usps,6,ontime,No
+ORD1030,CUST621,5/3/2025,5/11/2025,13.64,Congo,West Kathryn,Dhl,8,ontime,No
+ORD1304,CUST973,11/14/2024,11/22/2024,15.13,Spain,Collierstad,Usps,8,ontime,No
+ORD1420,CUST797,3/20/2025,3/30/2025,66.08,Nepal,Mitchelltown,Amazon Logistics,10,ontime,No
+ORD1444,CUST932,1/2/2025,1/5/2025,68.66,Czech Republic,Kellieborough,Amazon Logistics,3,ontime,No
+ORD1079,CUST182,8/24/2025,9/7/2025,22.65,Guinea-Bissau,Lake John,Amazon Logistics,14,late,No
+ORD1318,CUST363,3/7/2025,3/21/2025,94.7,Mozambique,South Reginashire,Ups,14,late,No
+ORD1210,CUST438,4/19/2025,4/25/2025,71.77,Hungary,Port Kimberly,Ups,6,ontime,No
+ORD1496,CUST142,4/27/2025,5/3/2025,93.67,Antigua And Barbuda,Harperton,Amazon Logistics,6,ontime,No
+ORD1172,CUST286,2/22/2025,2/23/2025,29.71,Gambia,New Susanville,Ups,1,ontime,No
+ORD1453,CUST285,5/14/2025,5/28/2025,70.82,Djibouti,North Robertfort,Amazon Logistics,14,late,No
+ORD1374,CUST462,10/18/2024,11/1/2024,,Belgium,Donnaport,Usps,14,late,No
+ORD1358,CUST802,4/1/2025,4/3/2025,51.58,Mayotte,South Morganton,Usps,2,ontime,No
+ORD1494,CUST164,8/14/2025,8/26/2025,78.74,Saint Kitts And Nevis,North Lisachester,Usps,12,late,No
+ORD1153,CUST365,2/13/2025,2/26/2025,28.49,Liechtenstein,Lake Thomas,Ups,13,late,No
+ORD1002,CUST792,10/12/2024,10/24/2024,89.76,Nauru,Johnsonland,Dhl,12,late,No
+ORD1335,CUST730,6/5/2025,6/12/2025,94.21,Sierra Leone,Lake Samuel,Ups,7,ontime,No
+ORD1208,CUST413,4/6/2025,4/17/2025,60.25,Liberia,Martinside,Usps,11,ontime,No
+ORD1073,CUST533,10/14/2024,10/26/2024,,North Macedonia,Calderonton,Amazon Logistics,12,late,No
+ORD1495,CUST137,5/5/2025,5/10/2025,24.15,Seychelles,East Jamieville,Fedex,5,ontime,No
+ORD1451,CUST138,12/23/2024,1/3/2025,36.99,Venezuela,Derrickshire,Amazon Logistics,11,ontime,No
+ORD1204,CUST187,4/29/2025,5/3/2025,73.41,Malawi,Port Chad,Usps,4,ontime,No
+ORD1068,CUST151,9/12/2024,9/23/2024,,Papua New Guinea,Sarahville,Dhl,11,ontime,No
+ORD1090,CUST350,8/15/2025,8/21/2025,32.07,Eritrea,New Sydney,Usps,6,ontime,No
+ORD1299,CUST570,4/3/2025,4/8/2025,68.35,Romania,New Angelica,Usps,5,ontime,No
+ORD1033,CUST494,12/10/2024,12/17/2024,61.61,Azerbaijan,New Stacey,Usps,7,ontime,No
+ORD1070,CUST516,10/20/2024,10/28/2024,50.73,Samoa,West Juan,Usps,8,ontime,No
+ORD1469,CUST482,12/19/2024,12/23/2024,41.69,Hungary,South Karen,Unspecified,4,ontime,No
+ORD1000,CUST754,5/15/2025,5/17/2025,7.38,Bouvet Island (Bouvetoya),Lake Joshuabury,Ups,2,ontime,No
+ORD1011,CUST718,10/9/2024,10/14/2024,81.68,Timor-Leste,Port Craig,Usps,5,ontime,No
+ORD1281,CUST439,10/19/2024,11/2/2024,14.53,Morocco,East Diane,Usps,14,late,No
+ORD1022,CUST324,3/25/2025,4/5/2025,35.81,Lithuania,Port Brandonville,Dhl,11,ontime,No
+ORD1101,CUST664,5/2/2025,5/14/2025,45.63,Palau,Stevenmouth,Dhl,12,late,No
+ORD1268,CUST349,10/2/2024,10/10/2024,57.37,Lesotho,Simmonsville,Usps,8,ontime,No
+ORD1484,CUST636,9/26/2024,10/2/2024,11.43,Jamaica,Isabellaside,Amazon Logistics,6,ontime,No
+ORD1441,CUST771,5/24/2025,6/5/2025,67.9,Lesotho,Edwardsburgh,Fedex,12,late,No
+ORD1290,CUST332,7/7/2025,7/19/2025,13.59,Western Sahara,North Ericton,Dhl,12,late,No
+ORD1084,CUST309,7/17/2025,7/28/2025,73.04,Paraguay,West Erik,Fedex,11,ontime,No
+ORD1245,CUST356,4/24/2025,4/25/2025,13.68,Hong Kong,Danielbury,Amazon Logistics,1,ontime,No
+ORD1063,CUST162,12/10/2024,12/17/2024,74.18,Estonia,Andersonport,Dhl,7,ontime,No
+ORD1055,CUST172,5/24/2025,6/5/2025,64.95,Saint Barthelemy,Mooreport,Fedex,12,late,No
+ORD1229,CUST412,2/5/2025,2/15/2025,64,Timor-Leste,Rodriguezfurt,Amazon Logistics,10,ontime,No
+ORD1018,CUST266,10/4/2024,10/10/2024,38.75,Croatia,Jasonfort,Ups,6,ontime,No
+ORD1410,CUST547,2/17/2025,3/3/2025,15.06,Liberia,Harrisberg,Usps,14,late,No
+ORD1209,CUST666,2/2/2025,2/11/2025,37.66,Korea,Mollybury,Amazon Logistics,9,ontime,No
+ORD1394,CUST873,10/4/2024,10/13/2024,,Georgia,Unkown,Usps,9,ontime,No
+ORD1082,CUST140,7/16/2025,7/26/2025,12.79,Sudan,South Angel,Amazon Logistics,10,ontime,No
+ORD1039,CUST612,3/3/2025,3/16/2025,21.97,British Indian Ocean Territory (Chagos Archipelago),East Caleb,Dhl,13,late,No
+ORD1455,CUST520,9/4/2025,9/10/2025,69.25,Cayman Islands,Delgadofort,Unspecified,6,ontime,No
+ORD1046,CUST187,2/23/2025,3/7/2025,51.17,Guinea,Jenkinston,Dhl,12,late,No
+ORD1412,CUST991,2/10/2025,2/15/2025,75.85,Bulgaria,Zacharyville,Fedex,5,ontime,No
+ORD1314,CUST473,11/6/2024,11/18/2024,17.48,Kazakhstan,South Scottport,Ups,12,late,No
+ORD1354,CUST562,10/3/2024,10/12/2024,26.05,Bouvet Island (Bouvetoya),Carlsontown,Amazon Logistics,9,ontime,No
+ORD1077,CUST158,4/8/2025,4/9/2025,60.5,Argentina,Brandiberg,Amazon Logistics,1,ontime,No
+ORD1397,CUST325,1/20/2025,1/27/2025,98.52,Brunei Darussalam,Port Tammy,Dhl,7,ontime,No
+ORD1104,CUST665,10/15/2024,10/18/2024,,Svalbard & Jan Mayen Islands,Lake Lance,Dhl,3,ontime,No
+ORD1203,CUST669,3/5/2025,3/6/2025,54.08,Micronesia,South James,Fedex,1,ontime,No
+ORD1380,CUST331,12/9/2024,12/22/2024,45.77,Slovakia (Slovak Republic),Michaelshire,Amazon Logistics,13,late,No
+ORD1488,CUST359,3/2/2025,3/14/2025,6.54,Trinidad And Tobago,Bennettside,Dhl,12,late,No
+ORD1069,CUST195,9/8/2025,9/21/2025,85.63,Turkey,West Darrell,Fedex,13,late,No
+ORD1407,CUST217,5/7/2025,5/14/2025,6.98,Northern Mariana Islands,South Pamelaside,Ups,7,ontime,No
+ORD1255,CUST431,4/8/2025,4/10/2025,97.17,United Arab Emirates,Bruceview,Usps,2,ontime,No
+ORD1391,CUST261,12/5/2024,12/18/2024,63.69,British Virgin Islands,Port Dominic,Dhl,13,late,No
+ORD1311,CUST794,6/30/2025,7/13/2025,73.49,Palau,East Stephaniefort,Fedex,13,late,No
+ORD1234,CUST581,12/3/2024,12/8/2024,8.1,North Macedonia,New John,Ups,5,ontime,No
+ORD1473,CUST812,1/29/2025,2/12/2025,18.19,Nicaragua,East Susan,Usps,14,late,No
+ORD1323,CUST909,12/27/2024,1/3/2025,6.32,Iceland,Schroederton,Amazon Logistics,7,ontime,No
+ORD1093,CUST406,12/16/2024,12/27/2024,,Aruba,Smithside,Fedex,11,ontime,No
+ORD1137,CUST912,7/8/2025,7/21/2025,74.92,Svalbard & Jan Mayen Islands,West Daniel,Dhl,13,late,No
+ORD1176,CUST867,12/31/2024,1/9/2025,9.95,Antigua And Barbuda,West Jasmine,Ups,9,ontime,No
+ORD1336,CUST133,2/15/2025,2/27/2025,40.2,Haiti,South Cheryl,Usps,12,late,No
+ORD1131,CUST230,12/26/2024,12/30/2024,44.94,Sao Tome And Principe,Kingland,Usps,4,ontime,No
+ORD1047,CUST878,5/28/2025,6/6/2025,77.75,Palau,North Richardmouth,Fedex,9,ontime,No
+ORD1364,CUST973,10/3/2024,10/14/2024,66.84,Saint Barthelemy,Johnsonborough,Amazon Logistics,11,ontime,No
+ORD1132,CUST793,3/10/2025,3/22/2025,90.77,Andorra,West Jeffreyland,Amazon Logistics,12,late,No
+ORD1331,CUST604,1/19/2025,1/21/2025,14.23,Yemen,Leeberg,Amazon Logistics,2,ontime,No
+ORD1411,CUST703,1/8/2025,1/15/2025,54.78,Tokelau,Jessicastad,Usps,7,ontime,No
+ORD1067,CUST927,2/26/2025,3/12/2025,86.32,Syrian Arab Republic,Cherylhaven,Dhl,14,late,No
+ORD1349,CUST115,9/23/2024,9/29/2024,80.05,France,Hortonberg,Fedex,6,ontime,No
+ORD1086,CUST568,12/4/2024,12/10/2024,93.26,Cook Islands,Baileybury,Dhl,6,ontime,No
+ORD1075,CUST403,11/10/2024,11/14/2024,97.03,Saint Vincent And The Grenadines,Arnoldchester,Amazon Logistics,4,ontime,No
+ORD1442,CUST709,3/6/2025,3/18/2025,94.11,United States Minor Outlying Islands,Amyview,Ups,12,late,No
+ORD1015,CUST146,11/11/2024,11/22/2024,26.65,Kyrgyz Republic,Nelsonside,Ups,11,ontime,No
+ORD1325,CUST698,4/13/2025,4/20/2025,83.13,Philippines,Mitchellberg,Ups,7,ontime,No
+ORD1388,CUST564,11/15/2024,11/21/2024,19.95,United Arab Emirates,Osbornmouth,Ups,6,ontime,No
+ORD1019,CUST818,2/9/2025,2/20/2025,66.56,Turks And Caicos Islands,Thomasberg,Amazon Logistics,11,ontime,No
+ORD1324,CUST226,7/12/2025,7/20/2025,40.02,Norfolk Island,Cameronville,Ups,8,ontime,No
+ORD1334,CUST524,4/28/2025,5/9/2025,14.41,Honduras,East Henry,Usps,11,ontime,No
+ORD1056,CUST169,12/2/2024,12/3/2024,86.67,Azerbaijan,Lake Leeton,Dhl,1,ontime,No
+ORD1338,CUST802,1/7/2025,1/13/2025,56.72,Sudan,Mckeeborough,Ups,6,ontime,No
+ORD1408,CUST275,12/30/2024,1/12/2025,95.02,Norway,Timothyfurt,Usps,13,late,No
+ORD1333,CUST529,3/25/2025,4/4/2025,75.52,Sierra Leone,Lake Matthewberg,Fedex,10,ontime,No
+ORD1181,CUST323,6/26/2025,7/4/2025,71.45,Sweden,Scottmouth,Ups,8,ontime,No
+ORD1227,CUST894,1/21/2025,1/30/2025,41.14,Namibia,Daniellechester,Usps,9,ontime,No
+ORD1426,CUST951,1/31/2025,2/5/2025,12.29,South Africa,Angelastad,Dhl,5,ontime,No
+ORD1180,CUST229,10/6/2024,10/14/2024,68.6,Bahamas,Port Kyle,Amazon Logistics,8,ontime,No
+ORD1025,CUST997,4/2/2025,4/14/2025,34.89,El Salvador,Lake Jenniferside,Usps,12,late,No
+ORD1329,CUST817,7/21/2025,7/26/2025,66.68,Brunei Darussalam,Lake Ellenhaven,Dhl,5,ontime,No
+ORD1238,CUST535,1/13/2025,1/15/2025,56.73,San Marino,Thompsonberg,Fedex,2,ontime,No
+ORD1244,CUST140,9/14/2024,9/21/2024,74.78,Estonia,South Miguelview,Amazon Logistics,7,ontime,No
+ORD1250,CUST193,10/31/2024,11/8/2024,38.06,Iceland,Watsonside,Ups,8,ontime,No
+ORD1417,CUST277,3/21/2025,3/31/2025,19.52,Malaysia,Jimenezport,Dhl,10,ontime,No
+ORD1117,CUST436,2/26/2025,3/3/2025,87.11,Belarus,Jimmymouth,Ups,5,ontime,No
+ORD1042,CUST652,8/8/2025,8/21/2025,92.63,Greenland,New Johnfort,Dhl,13,late,No
+ORD1321,CUST980,6/13/2025,6/24/2025,73.8,Belize,North John,Usps,11,ontime,No
+ORD1346,CUST102,2/17/2025,2/22/2025,86.55,Austria,Shawbury,Fedex,5,ontime,No
+ORD1182,CUST271,6/3/2025,6/13/2025,62.69,Gabon,Benderhaven,Dhl,10,ontime,No
+ORD1155,CUST381,1/1/2025,1/9/2025,,Cyprus,Holtport,Ups,8,ontime,No
+ORD1280,CUST607,8/12/2025,8/13/2025,16.99,United States Virgin Islands,West Carolinestad,Amazon Logistics,1,ontime,No
+ORD1126,CUST803,6/17/2025,6/29/2025,94.32,Chad,Calhounside,Fedex,12,late,No
+ORD1448,CUST296,7/23/2025,7/27/2025,100,Guatemala,West Bobby,Fedex,4,ontime,No
+ORD1031,CUST981,4/6/2025,4/8/2025,19.52,Zimbabwe,New Mariotown,Fedex,2,ontime,No
+ORD1113,CUST491,5/4/2025,5/18/2025,8.68,Suriname,Rivasside,Usps,14,late,No
+ORD1148,CUST567,12/26/2024,12/29/2024,81.13,Turkmenistan,Sanchezmouth,Amazon Logistics,3,ontime,No
+ORD1429,CUST560,7/18/2025,7/31/2025,59.31,Lebanon,Hernandezhaven,Fedex,13,late,No
+ORD1400,CUST435,12/5/2024,12/7/2024,5.73,Guatemala,Meghanview,Usps,2,ontime,No
+ORD1057,CUST626,4/23/2025,4/27/2025,31.46,Lesotho,North Susan,Usps,4,ontime,No
+ORD1194,CUST824,2/16/2025,2/19/2025,46.37,Austria,Unkown,Amazon Logistics,3,ontime,No
+ORD1024,CUST510,4/28/2025,5/3/2025,11.29,Bahrain,Jamesmouth,Amazon Logistics,5,ontime,No
+ORD1017,CUST489,12/6/2024,12/11/2024,48.07,Swaziland,Port Leslieview,Ups,5,ontime,No
+ORD1297,CUST734,7/2/2025,7/13/2025,27.88,Equatorial Guinea,Marktown,Amazon Logistics,11,ontime,No
+ORD1066,CUST355,9/6/2025,9/20/2025,92.71,Guernsey,Unkown,Usps,14,late,No
+ORD1211,CUST413,9/25/2024,9/30/2024,26.9,Ghana,Thorntonfurt,Fedex,5,ontime,No
+ORD1403,CUST173,9/9/2025,9/16/2025,86.87,Mozambique,East Donna,Dhl,7,ontime,No
+ORD1094,CUST370,6/2/2025,6/4/2025,89.52,Saint Helena,West Ryan,Amazon Logistics,2,ontime,No
+ORD1154,CUST884,6/12/2025,6/25/2025,54.52,Liechtenstein,Mcguireland,Fedex,13,late,No
+ORD1440,CUST779,6/10/2025,6/13/2025,92.09,Burundi,New Mark,Ups,3,ontime,No
+ORD1023,CUST334,11/7/2024,11/21/2024,8.05,Niue,Port Erin,Ups,14,late,No
+ORD1225,CUST187,12/16/2024,12/20/2024,16.25,Kuwait,Elizabethmouth,Usps,4,ontime,No
+ORD1432,CUST831,3/12/2025,3/14/2025,52.93,Suriname,West Markville,Fedex,2,ontime,No
+ORD1446,CUST470,4/14/2025,4/15/2025,39.45,Vietnam,Keithshire,Fedex,1,ontime,No
+ORD1005,CUST674,6/30/2025,7/4/2025,73.02,Sri Lanka,Lake Roberto,Amazon Logistics,4,ontime,No
+ORD1116,CUST328,7/3/2025,7/4/2025,67.7,Slovakia (Slovak Republic),Simsview,Usps,1,ontime,No
+ORD1045,CUST159,7/19/2025,7/23/2025,88.41,Ireland,North Collin,Dhl,4,ontime,No
+ORD1016,CUST181,12/3/2024,12/17/2024,27.12,Poland,Meganton,Dhl,14,late,No
+ORD1467,CUST193,1/14/2025,1/18/2025,82.59,Benin,Caldwellburgh,Ups,4,ontime,No
+ORD1361,CUST661,7/5/2025,7/17/2025,,Mozambique,Dennisstad,Amazon Logistics,12,late,No
+ORD1003,CUST704,12/2/2024,12/9/2024,8.02,Djibouti,New Jamesside,Dhl,7,ontime,No
+ORD1294,CUST467,5/30/2025,6/5/2025,45.92,Philippines,Roseport,Fedex,6,ontime,No
+ORD1185,CUST689,10/14/2024,10/25/2024,91.26,Denmark,Port Emilyview,Usps,11,ontime,No
+ORD1060,CUST926,8/20/2025,8/27/2025,23.09,Montenegro,New Brooke,Dhl,7,ontime,No
+ORD1110,CUST522,6/6/2025,6/7/2025,22.04,Maldives,Williamsbury,Ups,1,ontime,No
+ORD1320,CUST579,11/6/2024,11/8/2024,18.37,Bahamas,Garciamouth,Fedex,2,ontime,No
+ORD1265,CUST572,10/23/2024,10/25/2024,66.53,Samoa,South Shanestad,Fedex,2,ontime,No
+ORD1029,CUST508,8/13/2025,8/19/2025,25.84,Niue,Meaganhaven,Fedex,6,ontime,No
+ORD1262,CUST745,7/16/2025,7/26/2025,80.93,China,Lake Michelleberg,Fedex,10,ontime,No
+ORD1477,CUST213,10/9/2024,10/22/2024,32.37,United States Virgin Islands,North Mariahaven,Ups,13,late,No
+ORD1026,CUST505,6/27/2025,7/8/2025,48.59,Ethiopia,Danielchester,Ups,11,ontime,No
+ORD1007,CUST928,10/15/2024,10/29/2024,5.62,Hong Kong,West Melanieview,Fedex,14,late,No
+ORD1457,CUST339,1/11/2025,1/20/2025,27.72,France,Port Christophershire,Usps,9,ontime,No
+ORD1108,CUST735,11/5/2024,11/17/2024,19.68,Palau,Port Michelleville,Fedex,12,late,No
+ORD1037,CUST214,11/30/2024,12/5/2024,46.3,Vanuatu,Lake Larry,Usps,5,ontime,No
+ORD1157,CUST182,1/20/2025,1/23/2025,19.33,Jamaica,Michaelmouth,Usps,3,ontime,No
+ORD1471,CUST959,10/3/2024,10/15/2024,66.75,Papua New Guinea,South Kurtfurt,Unspecified,12,late,No
+ORD1118,CUST459,1/11/2025,1/22/2025,53.39,Uganda,East Edwardfurt,Amazon Logistics,11,ontime,No
+ORD1114,CUST327,3/1/2025,3/5/2025,82.58,Ukraine,Lake Michelle,Usps,4,ontime,No
+ORD1175,CUST358,9/10/2024,9/24/2024,12.78,Ireland,Norrisfort,Dhl,14,late,No
+ORD1192,CUST112,9/23/2024,10/7/2024,44.91,Korea,West Johnnyville,Usps,14,late,No
+ORD1272,CUST389,1/1/2025,1/13/2025,33.36,Korea,Garciaville,Amazon Logistics,12,late,No
+ORD1144,CUST606,7/25/2025,8/1/2025,28.18,Liechtenstein,South Susanmouth,Dhl,7,ontime,No
+ORD1489,CUST453,10/30/2024,11/3/2024,74.63,Palau,Davidside,Dhl,4,ontime,No
+ORD1382,CUST126,1/31/2025,2/10/2025,93.26,Holy See (Vatican City State),Hinesshire,Ups,10,ontime,No
+ORD1355,CUST144,5/12/2025,5/24/2025,79.41,Malaysia,Lake Douglas,Amazon Logistics,12,late,No
+ORD1277,CUST685,10/5/2024,10/12/2024,27.19,Bermuda,North Ryanstad,Usps,7,ontime,No
+ORD1220,CUST993,2/28/2025,3/1/2025,59.54,Chad,Rebeccaton,Usps,1,ontime,No
+ORD1449,CUST179,6/13/2025,6/18/2025,85.22,Belgium,Unkown,Dhl,5,ontime,No
+ORD1141,CUST250,1/4/2025,1/5/2025,9.39,Thailand,Port Tonyaton,Usps,1,ontime,No
+ORD1368,CUST537,1/25/2025,1/31/2025,68.19,Tokelau,Port Dianaview,Ups,6,ontime,No
+ORD1067,CUST927,2/26/2025,3/12/2025,86.32,Syrian Arab Republic,Cherylhaven,Dhl,14,late,No
+ORD1360,CUST167,1/25/2025,1/28/2025,31.13,Solomon Islands,West Johnville,Amazon Logistics,3,ontime,No
+ORD1168,CUST841,5/11/2025,5/14/2025,84.85,Poland,East Edwardshire,Fedex,3,ontime,No
+ORD1498,CUST137,12/2/2024,12/15/2024,66.46,Saudi Arabia,Unkown,Ups,13,late,No
+ORD1378,CUST329,10/8/2024,10/22/2024,15.28,Paraguay,Coxburgh,Amazon Logistics,14,late,No
+ORD1365,CUST838,9/26/2024,10/10/2024,25.43,Somalia,North Leslie,Usps,14,late,No
+ORD1193,CUST208,7/6/2025,7/13/2025,96.27,Iraq,Lake Mollymouth,Usps,7,ontime,No
+ORD1249,CUST285,1/5/2025,1/15/2025,46.41,Lithuania,North Jimmyside,Usps,10,ontime,No
+ORD1109,CUST985,7/8/2025,7/11/2025,97.74,Jamaica,East Linda,Fedex,3,ontime,No
+ORD1433,CUST140,2/17/2025,2/21/2025,72.22,Myanmar,Lauratown,Usps,4,ontime,No
+ORD1145,CUST868,6/10/2025,6/24/2025,78.15,Cape Verde,Thompsonhaven,Dhl,14,late,No
+ORD1092,CUST926,2/25/2025,3/8/2025,55.25,New Caledonia,South Rachelborough,Amazon Logistics,11,ontime,No
+ORD1152,CUST262,4/12/2025,4/24/2025,86.84,Algeria,North John,Usps,12,late,No
+ORD1222,CUST358,11/4/2024,11/18/2024,50.38,Ecuador,Knightburgh,Dhl,14,late,No
+ORD1409,CUST951,1/2/2025,1/14/2025,92.38,Korea,Lake Brianmouth,Dhl,12,late,No
+ORD1083,CUST678,6/22/2025,7/1/2025,35.06,Uzbekistan,Kimberlychester,Ups,9,ontime,No
+ORD1248,CUST581,5/19/2025,5/28/2025,66.89,Ireland,East Brandonton,Ups,9,ontime,No
+ORD1165,CUST919,4/19/2025,4/29/2025,90.29,Finland,Mendozamouth,Usps,10,ontime,No
+ORD1163,CUST106,9/30/2024,10/6/2024,33.37,Micronesia,Heidiberg,Usps,6,ontime,No
+ORD1199,CUST683,2/14/2025,2/24/2025,68.48,Bermuda,Port Robin,Ups,10,ontime,No
+ORD1231,CUST740,9/17/2024,9/21/2024,30.14,Switzerland,Hillshire,Dhl,4,ontime,No
+ORD1074,CUST777,9/10/2024,9/22/2024,51.23,Grenada,Lake Tina,Fedex,12,late,No
+ORD1310,CUST324,12/17/2024,12/28/2024,23.06,Congo,New Eric,Ups,11,ontime,No
+ORD1454,CUST928,10/18/2024,10/21/2024,73.51,Pitcairn Islands,North Tamara,Dhl,3,ontime,No
+ORD1253,CUST778,9/21/2024,9/28/2024,82.29,Portugal,Jeffmouth,Amazon Logistics,7,ontime,No
+ORD1119,CUST439,6/5/2025,6/6/2025,15.96,Cape Verde,North Robert,Ups,1,ontime,No
+ORD1284,CUST176,8/3/2025,8/11/2025,79.24,Monaco,New Sarahview,Ups,8,ontime,No
+ORD1301,CUST552,2/25/2025,3/3/2025,98.83,Andorra,Morsemouth,Ups,6,ontime,No
+ORD1482,CUST539,4/14/2025,4/15/2025,63.41,Kyrgyz Republic,Jenniferfurt,Fedex,1,ontime,No
+ORD1356,CUST408,2/22/2025,3/2/2025,66.12,Afghanistan,Johnchester,Dhl,8,ontime,No
+ORD1402,CUST612,5/5/2025,5/14/2025,84.17,Martinique,New Danielleshire,Ups,9,ontime,No
+ORD1228,CUST404,6/4/2025,6/18/2025,60.91,El Salvador,Bruceborough,Usps,14,late,No
+ORD1261,CUST548,9/10/2024,9/22/2024,51.05,Falkland Islands (Malvinas),East Amber,Dhl,12,late,No
+ORD1237,CUST906,4/22/2025,5/5/2025,64.38,Haiti,Unkown,Fedex,13,late,No
+ORD1437,CUST167,9/21/2024,9/27/2024,13.98,Montserrat,East Andrewmouth,Usps,6,ontime,No
+ORD1475,CUST119,2/17/2025,2/22/2025,25.49,Reunion,Toddborough,Fedex,5,ontime,No
+ORD1036,CUST868,4/10/2025,4/15/2025,78.02,Chad,Allisonchester,Ups,5,ontime,No
+ORD1196,CUST893,12/21/2024,12/29/2024,49.16,Mexico,West Samuel,Amazon Logistics,8,ontime,No
+ORD1139,CUST443,2/10/2025,2/12/2025,82.75,Western Sahara,North Brittany,Fedex,2,ontime,No
+ORD1367,CUST508,3/11/2025,3/18/2025,74.31,El Salvador,Port Deborahport,Ups,7,ontime,No
+ORD1247,CUST690,5/18/2025,5/19/2025,77.5,Bahrain,Blankenshipport,Fedex,1,ontime,No
+ORD1287,CUST489,4/16/2025,4/22/2025,64.55,Palestinian Territory,Jonestown,Usps,6,ontime,No
+ORD1377,CUST619,5/5/2025,5/9/2025,,Jordan,Danielleton,Usps,4,ontime,No
+ORD1059,CUST690,5/29/2025,6/6/2025,28.08,Tokelau,South David,Usps,8,ontime,No
+ORD1111,CUST901,8/31/2025,9/7/2025,81.21,Thailand,South Dennismouth,Fedex,7,ontime,No
+ORD1089,CUST371,2/11/2025,2/14/2025,93.66,Philippines,Sheilaville,Dhl,3,ontime,No
+ORD1266,CUST610,3/27/2025,4/8/2025,32.73,Nauru,South Williamton,Ups,12,late,No
+ORD1006,CUST529,12/25/2024,12/29/2024,47.67,Cape Verde,Port Matthew,Ups,4,ontime,No
+ORD1456,CUST554,3/13/2025,3/23/2025,32.07,Pakistan,Port Tamara,Usps,10,ontime,No
+ORD1347,CUST233,2/5/2025,2/14/2025,28.81,Belgium,Jeffreymouth,Fedex,9,ontime,No
+ORD1340,CUST968,7/8/2025,7/22/2025,48.2,Hong Kong,Burchborough,Fedex,14,late,No
+ORD1158,CUST810,12/23/2024,12/26/2024,72.11,Gambia,Jerryborough,Dhl,3,ontime,No
+ORD1150,CUST727,8/5/2025,8/19/2025,73.33,Greece,South Jason,Amazon Logistics,14,late,No
+ORD1177,CUST329,6/9/2025,6/20/2025,11.52,Tokelau,Jonesbury,Dhl,11,ontime,No
+ORD1396,CUST598,10/27/2024,11/5/2024,68.38,Ghana,South Stevenhaven,Dhl,9,ontime,No
+ORD1184,CUST210,8/20/2025,8/30/2025,7.44,Jersey,Cassandratown,Ups,10,ontime,No
+ORD1317,CUST643,10/8/2024,10/17/2024,91.78,Oman,New Brookefurt,Fedex,9,ontime,No
+ORD1010,CUST489,4/21/2025,4/23/2025,39.1,Congo,North Donnaport,Ups,2,ontime,No
+ORD1383,CUST129,11/1/2024,11/4/2024,30.96,Marshall Islands,Raymondview,Ups,3,ontime,No
+ORD1103,CUST658,5/22/2025,5/23/2025,84.29,Belize,Zacharymouth,Amazon Logistics,1,ontime,No
+ORD1081,CUST222,9/3/2025,9/13/2025,28.39,Venezuela,Port Francisco,Amazon Logistics,10,ontime,No
+ORD1038,CUST103,5/27/2025,6/8/2025,88.21,Pakistan,Samuelhaven,Ups,12,late,No
+ORD1316,CUST235,3/7/2025,3/20/2025,56.24,Korea,North Miguelport,Ups,13,late,No
+ORD1167,CUST498,10/23/2024,10/29/2024,68.54,Swaziland,South Travisshire,Usps,6,ontime,No
+ORD1474,CUST559,3/13/2025,3/23/2025,5.5,Cape Verde,Adkinsstad,Dhl,10,ontime,No
+ORD1298,CUST246,3/21/2025,3/25/2025,48.81,San Marino,Thompsonfurt,Ups,4,ontime,No
+ORD1404,CUST546,6/15/2025,6/16/2025,48.68,United Arab Emirates,Meganshire,Dhl,1,ontime,No
+ORD1198,CUST385,6/11/2025,6/19/2025,28.17,Cayman Islands,Andreaside,Usps,8,ontime,No
+ORD1376,CUST714,1/23/2025,1/28/2025,38.41,Kiribati,Lake Mollystad,Amazon Logistics,5,ontime,No
+ORD1146,CUST897,5/19/2025,5/26/2025,25.79,Faroe Islands,Marshallshire,Amazon Logistics,7,ontime,No
+ORD1395,CUST213,4/1/2025,4/6/2025,69.43,Isle Of Man,Morrowland,Amazon Logistics,5,ontime,No
+ORD1147,CUST575,12/22/2024,12/23/2024,57.95,Gibraltar,Port Sarah,Dhl,1,ontime,No
+ORD1483,CUST684,12/16/2024,12/23/2024,22.79,Svalbard & Jan Mayen Islands,Lake Jefferyland,Dhl,7,ontime,No
+ORD1289,CUST340,1/19/2025,1/30/2025,70.02,Cayman Islands,Larrymouth,Ups,11,ontime,No
+ORD1123,CUST623,1/2/2025,1/4/2025,41.59,Sao Tome And Principe,Unkown,Amazon Logistics,2,ontime,No
+ORD1371,CUST198,3/20/2025,4/1/2025,75.19,Puerto Rico,Richardsonhaven,Fedex,12,late,No
+ORD1096,CUST834,6/15/2025,6/21/2025,24.34,United Arab Emirates,Williamchester,Ups,6,ontime,No
+ORD1143,CUST524,3/24/2025,4/4/2025,59.69,Oman,Alexanderchester,Usps,11,ontime,No
+ORD1239,CUST372,7/11/2025,7/25/2025,18.51,Mauritius,Alyssaview,Dhl,14,late,No
+ORD1275,CUST665,2/17/2025,3/2/2025,56.63,Saint Lucia,West Ronaldview,Usps,13,late,No
+ORD1097,CUST617,1/13/2025,1/21/2025,28.86,Iraq,Angelaborough,Dhl,8,ontime,No
+ORD1352,CUST216,4/10/2025,4/22/2025,11.04,Wallis And Futuna,Rodriguezport,Usps,12,late,No
+ORD1122,CUST846,6/6/2025,6/19/2025,34.8,Angola,Woodsstad,Amazon Logistics,13,late,No
+ORD1183,CUST896,4/6/2025,4/20/2025,20.56,Lithuania,Millerton,Ups,14,late,No
+ORD1202,CUST448,2/17/2025,2/22/2025,88.63,Syrian Arab Republic,Bairdbury,Ups,5,ontime,No
+ORD1246,CUST701,3/11/2025,3/12/2025,99.96,Anguilla,Rosebury,Ups,1,ontime,No
+ORD1307,CUST108,12/4/2024,12/14/2024,87.18,Grenada,North William,Dhl,10,ontime,No
+ORD1422,CUST254,6/18/2025,6/26/2025,11.49,Haiti,Diazfurt,Usps,8,ontime,No
+ORD1353,CUST896,12/10/2024,12/16/2024,53.76,Gabon,North Johnmouth,Dhl,6,ontime,No
+ORD1302,CUST754,4/20/2025,4/27/2025,70.58,Japan,Mckinneychester,Usps,7,ontime,No
+ORD1398,CUST107,2/24/2025,2/28/2025,33.63,Macao,Port Davidberg,Fedex,4,ontime,No
+ORD1286,CUST972,9/1/2025,9/7/2025,85.97,Guadeloupe,Adamberg,Amazon Logistics,6,ontime,No
+ORD1125,CUST101,2/25/2025,3/6/2025,92.93,Libyan Arab Jamahiriya,South Matthewfurt,Amazon Logistics,9,ontime,No
+ORD1304,CUST973,11/14/2024,11/22/2024,15.13,Spain,Collierstad,Usps,8,ontime,No
+ORD1223,CUST510,11/14/2024,11/22/2024,12.04,China,New Monicabury,Dhl,8,ontime,No
+ORD1421,CUST430,8/4/2025,8/18/2025,,Botswana,Andersonview,Unspecified,14,late,No
+ORD1219,CUST753,12/6/2024,12/20/2024,76.52,San Marino,South Tiffanyville,Dhl,14,late,No
+ORD1129,CUST837,11/18/2024,11/23/2024,53.18,Australia,Nicholasborough,Usps,5,ontime,No
+ORD1423,CUST746,9/28/2024,10/3/2024,80.65,Montenegro,West Angela,Amazon Logistics,5,ontime,No
+ORD1291,CUST878,5/28/2025,6/8/2025,71.87,Belgium,Scottchester,Dhl,11,ontime,No
+ORD1492,CUST933,2/20/2025,3/3/2025,21.63,Martinique,Morrowbury,Usps,11,ontime,No
+ORD1393,CUST721,3/9/2025,3/17/2025,44.35,Spain,New Nicole,Fedex,8,ontime,No
+ORD1479,CUST568,3/30/2025,4/1/2025,15.53,Kenya,Lake Jamieshire,Usps,2,ontime,No
+ORD1357,CUST162,11/20/2024,11/28/2024,85.49,Papua New Guinea,New Theresaland,Usps,8,ontime,No
+ORD1296,CUST274,9/11/2024,9/14/2024,12.5,Costa Rica,Sierraberg,Usps,3,ontime,No
+ORD1369,CUST256,10/27/2024,11/7/2024,92.68,South Georgia And The South Sandwich Islands,Samuelfurt,Dhl,11,ontime,No
+ORD1342,CUST151,5/16/2025,5/29/2025,36.68,Liberia,Angelaville,Fedex,13,late,No
+ORD1112,CUST373,5/26/2025,5/29/2025,79.8,Marshall Islands,Stephaniemouth,Dhl,3,ontime,No
+ORD1179,CUST959,12/5/2024,12/6/2024,64.03,Oman,West Margaret,Fedex,1,ontime,No
+ORD1418,CUST281,3/21/2025,4/3/2025,64.66,Angola,South Williambury,Usps,13,late,No
+ORD1341,CUST757,7/17/2025,7/28/2025,61.73,Netherlands,Port John,Dhl,11,ontime,No
+ORD1332,CUST238,11/8/2024,11/15/2024,48.1,Belarus,Meganville,Amazon Logistics,7,ontime,No
+ORD1486,CUST667,11/17/2024,11/18/2024,1000,Seychelles,Port Darlene,Usps,1,ontime,No
+ORD1362,CUST643,4/9/2025,4/14/2025,48.1,Guadeloupe,Port Kimberly,Amazon Logistics,5,ontime,No
+ORD1233,CUST260,7/7/2025,7/8/2025,43.81,South Georgia And The South Sandwich Islands,New Laurie,Amazon Logistics,1,ontime,No
+ORD1472,CUST240,6/2/2025,6/3/2025,,Macao,Hannahport,Usps,1,ontime,No
+ORD1164,CUST973,5/14/2025,5/28/2025,44.81,Trinidad And Tobago,Garciatown,Amazon Logistics,14,late,No
+ORD1136,CUST552,6/7/2025,6/18/2025,25.3,Equatorial Guinea,Garyville,Usps,11,ontime,No
+ORD1197,CUST374,6/7/2025,6/13/2025,85.91,Libyan Arab Jamahiriya,North Teresabury,Dhl,6,ontime,No
+ORD1258,CUST155,10/27/2024,10/31/2024,54.25,Solomon Islands,North Maria,Amazon Logistics,4,ontime,No
+ORD1232,CUST260,8/10/2025,8/14/2025,21.51,Poland,New Julieport,Dhl,4,ontime,No
+ORD1115,CUST458,3/2/2025,3/7/2025,82.95,Eritrea,Port Dana,Unspecified,5,ontime,No
+ORD1120,CUST282,1/15/2025,1/25/2025,96.44,Mauritius,Perryborough,Ups,10,ontime,No
+ORD1351,CUST153,8/26/2025,8/29/2025,75.46,Belgium,West Jasonberg,Amazon Logistics,3,ontime,No
+ORD1224,CUST255,3/21/2025,3/24/2025,,United States Minor Outlying Islands,East Steven,Ups,3,ontime,No
+ORD1405,CUST982,9/24/2024,9/30/2024,59.7,Sweden,North Brandonshire,Amazon Logistics,6,ontime,No
+ORD1436,CUST795,5/11/2025,5/21/2025,9.97,Saint Helena,Hernandezbury,Ups,10,ontime,No
+ORD1127,CUST472,9/19/2024,9/26/2024,11.65,United States Of America,Vargastown,Ups,7,ontime,No
+ORD1285,CUST446,9/20/2024,9/30/2024,70.81,Cocos (Keeling) Islands,Jacquelineport,Dhl,10,ontime,No
+ORD1414,CUST748,12/14/2024,12/16/2024,,Cambodia,North Kellyfurt,Fedex,2,ontime,No
+ORD1107,CUST462,11/23/2024,12/6/2024,58.19,Saint Barthelemy,Snyderbury,Usps,13,late,No
+ORD1373,CUST675,4/30/2025,5/6/2025,68.65,Swaziland,New Kelly,Usps,6,ontime,No
+ORD1370,CUST193,6/24/2025,7/8/2025,13.11,Kazakhstan,Morganburgh,Usps,14,late,No
+ORD1133,CUST682,7/9/2025,7/14/2025,43.58,Pakistan,Port Anthonybury,Dhl,5,ontime,No
+ORD1399,CUST885,1/5/2025,1/8/2025,77.6,Chad,West Sarah,Ups,3,ontime,No
+ORD1044,CUST471,4/18/2025,5/2/2025,81.64,Morocco,Sanchezfort,Fedex,14,late,No
+ORD1465,CUST391,7/13/2025,7/15/2025,77.5,French Polynesia,East Cheryl,Ups,2,ontime,No
+ORD1065,CUST243,10/17/2024,10/24/2024,22.43,Barbados,New Joseph,Usps,7,ontime,No
+ORD1283,CUST839,10/23/2024,10/26/2024,43.95,Serbia,Audreychester,Fedex,3,ontime,No
+ORD1085,CUST371,6/8/2025,6/15/2025,17.43,Botswana,Brennanfort,Ups,7,ontime,No
+ORD1242,CUST816,10/8/2024,10/15/2024,94.55,Cambodia,Port Erica,Amazon Logistics,7,ontime,No
+ORD1186,CUST506,4/20/2025,5/2/2025,23.84,Armenia,South April,Amazon Logistics,12,late,No
+ORD1386,CUST858,12/1/2024,12/12/2024,97.32,New Zealand,Heatherfort,Dhl,11,ontime,No
+ORD1159,CUST524,1/9/2025,1/16/2025,36.43,British Indian Ocean Territory (Chagos Archipelago),East Javier,Usps,7,ontime,No
+ORD1012,CUST649,12/25/2024,12/27/2024,97.45,Korea,Franciscostad,Usps,2,ontime,No
+ORD1035,CUST796,7/3/2025,7/15/2025,15.88,Brunei Darussalam,Lake Thomas,Amazon Logistics,12,late,No
+ORD1028,CUST369,3/22/2025,4/3/2025,1000,Serbia,New Rita,Amazon Logistics,12,late,No
+ORD1170,CUST706,2/17/2025,2/27/2025,67.98,New Caledonia,Port Alexandra,Dhl,10,ontime,No
+ORD1142,CUST725,1/21/2025,2/4/2025,78.01,Martinique,Stanleyland,Usps,14,late,No
+ORD1416,CUST341,7/21/2025,7/23/2025,18.91,Greece,Jamesburgh,Fedex,2,ontime,No
+ORD1424,CUST157,10/7/2024,10/13/2024,53.2,Hungary,Duranview,Ups,6,ontime,No
+ORD1221,CUST590,1/12/2025,1/20/2025,37.37,South Africa,West Michaelchester,Dhl,8,ontime,No
+ORD1095,CUST259,5/24/2025,5/29/2025,31.77,Uruguay,Cindyville,Fedex,5,ontime,No
+ORD1051,CUST830,10/17/2024,10/22/2024,42.9,Australia,North Sarabury,Ups,5,ontime,No
+ORD1240,CUST269,7/28/2025,8/10/2025,34.22,Chad,Robinfort,Amazon Logistics,13,late,No
+ORD1375,CUST988,3/1/2025,3/13/2025,9.89,Netherlands,Jacksonmouth,Ups,12,late,No
+ORD1381,CUST885,9/21/2024,10/5/2024,64.06,Netherlands,Lake Shannon,Amazon Logistics,14,late,No
+ORD1178,CUST872,9/2/2025,9/3/2025,95.21,Estonia,South Danny,Fedex,1,ontime,No
+ORD1041,CUST723,10/6/2024,10/10/2024,19.52,Russian Federation,East Carloston,Fedex,4,ontime,No
+ORD1439,CUST994,3/22/2025,3/25/2025,36.67,Singapore,Salaston,Amazon Logistics,3,ontime,No
+ORD1390,CUST710,8/5/2025,8/7/2025,,Cayman Islands,Port Michael,Fedex,2,ontime,No
+ORD1206,CUST761,12/21/2024,1/2/2025,51.63,Swaziland,West Jessicashire,Dhl,12,late,No
+ORD1282,CUST202,12/5/2024,12/14/2024,91.49,Tanzania,West Meganstad,Dhl,9,ontime,No
+ORD1254,CUST137,12/9/2024,12/17/2024,13.37,Timor-Leste,Corystad,Ups,8,ontime,No
+ORD1415,CUST894,8/10/2025,8/16/2025,38.35,Nicaragua,Wrightburgh,Fedex,6,ontime,No
+ORD1004,CUST323,2/18/2025,2/22/2025,53.01,Cyprus,Lawrencetown,Dhl,4,ontime,No
+ORD1256,CUST985,11/21/2024,11/30/2024,83.37,British Virgin Islands,Davisborough,Dhl,9,ontime,No
+ORD1452,CUST234,12/10/2024,12/20/2024,40.79,Ecuador,Lake Rebeccabury,Fedex,10,ontime,No
+ORD1100,CUST752,1/5/2025,1/10/2025,20.35,France,South Kristi,Usps,5,ontime,No
+ORD1226,CUST720,8/24/2025,9/3/2025,80.12,France,North Scott,Fedex,10,ontime,No
+ORD1431,CUST163,4/27/2025,5/5/2025,14.83,Guadeloupe,Ericksonport,Ups,8,ontime,No
+ORD1213,CUST296,10/28/2024,11/1/2024,75.17,Macao,Mollymouth,Ups,4,ontime,No
+ORD1425,CUST572,7/26/2025,8/3/2025,8.57,Nigeria,East Theresafurt,Ups,8,ontime,No
+ORD1171,CUST758,3/2/2025,3/9/2025,17.89,United States Of America,Evansshire,Usps,7,ontime,No
+ORD1098,CUST194,2/19/2025,3/2/2025,45.24,Papua New Guinea,Byrdburgh,Ups,11,ontime,No
+ORD1292,CUST554,3/16/2025,3/19/2025,70.93,New Caledonia,Perryborough,Dhl,3,ontime,No
+ORD1215,CUST711,2/15/2025,2/20/2025,98.15,Trinidad And Tobago,North Terrance,Fedex,5,ontime,No
+ORD1061,CUST774,5/7/2025,5/14/2025,38.66,Belgium,Sandovalshire,Usps,7,ontime,No
+ORD1047,CUST878,5/28/2025,6/6/2025,,Palau,North Richardmouth,Fedex,9,ontime,No
+ORD1032,CUST911,10/22/2024,11/2/2024,45.11,Vanuatu,Natashaport,Dhl,11,ontime,No
+ORD1267,CUST525,6/18/2025,7/2/2025,50.84,Slovenia,Stephentown,Unspecified,14,late,No
+ORD1327,CUST734,5/21/2025,5/30/2025,36.16,Qatar,Andersonland,Amazon Logistics,9,ontime,No
+ORD1200,CUST129,3/7/2025,3/15/2025,85.84,Yemen,Lake Marilynfort,Fedex,8,ontime,No
+ORD1450,CUST619,6/26/2025,7/9/2025,,Lesotho,East Maria,Amazon Logistics,13,late,No
+ORD1027,CUST242,11/9/2024,11/13/2024,75.77,Korea,Lake Nancyview,Unspecified,4,ontime,No
+ORD1392,CUST378,7/12/2025,7/20/2025,67.88,Lithuania,West Angelastad,Usps,8,ontime,No
+ORD1230,CUST857,4/19/2025,4/21/2025,95.02,Guinea-Bissau,Victoriaport,Fedex,2,ontime,No
+ORD1260,CUST308,1/14/2025,1/19/2025,57.18,Singapore,Port Rachel,Ups,5,ontime,No
+ORD1288,CUST993,10/14/2024,10/23/2024,8.41,San Marino,South Robert,Dhl,9,ontime,No
+ORD1162,CUST977,6/10/2025,6/23/2025,59.69,Martinique,West Brandon,Usps,13,late,No
+ORD1428,CUST694,3/22/2025,3/31/2025,95.65,Armenia,North Derrickmouth,Dhl,9,ontime,No
+ORD1138,CUST390,9/18/2024,9/27/2024,68.07,Vanuatu,Barbarafurt,Amazon Logistics,9,ontime,No
+ORD1062,CUST578,3/31/2025,4/14/2025,74.26,Germany,Jamesmouth,Dhl,14,late,No
+ORD1135,CUST721,3/11/2025,3/22/2025,35.61,Paraguay,New Staciemouth,Usps,11,ontime,No
+ORD1128,CUST738,10/11/2024,10/17/2024,68.02,Norway,Taylormouth,Dhl,6,ontime,No
+ORD1481,CUST688,10/30/2024,11/3/2024,73.26,Malaysia,Bryantton,Ups,4,ontime,No
+ORD1008,CUST814,7/19/2025,7/26/2025,37.32,Aruba,Herrerafurt,Fedex,7,ontime,No
+ORD1326,CUST210,1/16/2025,1/27/2025,27.21,Belgium,West Kyle,Dhl,11,ontime,No
+ORD1468,CUST127,11/2/2024,11/9/2024,10.06,Lesotho,Sharitown,Amazon Logistics,7,ontime,No
+ORD1064,CUST354,3/5/2025,3/9/2025,23.07,Germany,North Stephenshire,Usps,4,ontime,No
+ORD1300,CUST394,5/26/2025,6/6/2025,56.93,Sri Lanka,Charleston,Dhl,11,ontime,No
+ORD1014,CUST982,5/3/2025,5/9/2025,59.85,North Macedonia,New Jessica,Dhl,6,ontime,No
+ORD1156,CUST340,5/24/2025,5/29/2025,36.91,Mozambique,Thomashaven,Amazon Logistics,5,ontime,No
+ORD1040,CUST991,9/17/2024,9/28/2024,33.35,Namibia,New Jeffrey,Amazon Logistics,11,ontime,No
+ORD1379,CUST476,9/21/2024,9/23/2024,77.45,Cambodia,Johnsonland,Amazon Logistics,2,ontime,No
+ORD1464,CUST828,5/18/2025,6/1/2025,54.01,Equatorial Guinea,North Jill,Dhl,14,late,No
+ORD1406,CUST514,12/20/2024,1/1/2025,65.81,Pakistan,Port Ashley,Ups,12,late,No
+ORD1216,CUST403,12/20/2024,12/24/2024,39.28,Guadeloupe,Santosmouth,Ups,4,ontime,No
+ORD1279,CUST495,1/15/2025,1/26/2025,80.28,Paraguay,South Michaelchester,Fedex,11,ontime,No
+ORD1438,CUST390,2/18/2025,2/23/2025,73.75,Canada,Vaughnchester,Amazon Logistics,5,ontime,No
+ORD1434,CUST636,4/28/2025,5/7/2025,62.93,Lebanon,Tammyshire,Ups,9,ontime,No
+ORD1337,CUST555,6/28/2025,7/2/2025,86.27,San Marino,Youngbury,Dhl,4,ontime,No
+ORD1236,CUST172,5/10/2025,5/21/2025,27.18,Oman,West Kristinaton,Ups,11,ontime,No
+ORD1207,CUST195,4/22/2025,4/27/2025,26.05,Palestinian Territory,Grimesmouth,Fedex,5,ontime,No
+ORD1212,CUST423,2/5/2025,2/7/2025,75.57,Panama,South Tammie,Fedex,2,ontime,No
+ORD1295,CUST643,9/26/2024,10/3/2024,58.76,Cyprus,Joyceton,Fedex,7,ontime,No
+ORD1461,CUST936,1/2/2025,1/6/2025,81.12,Montenegro,West Justinside,Fedex,4,ontime,No
+ORD1251,CUST428,2/18/2025,3/1/2025,14.94,Namibia,South Diana,Fedex,11,ontime,No
+ORD1493,CUST812,3/6/2025,3/14/2025,65.01,Guatemala,West Jacob,Fedex,8,ontime,No
+ORD1462,CUST993,3/31/2025,4/5/2025,9.96,Lithuania,Port William,Usps,5,ontime,No
+ORD1303,CUST965,12/30/2024,1/4/2025,23.93,Brazil,Smithmouth,Usps,5,ontime,No
+ORD1350,CUST702,6/30/2025,7/6/2025,6.5,Romania,Westtown,Ups,6,ontime,No
+ORD1269,CUST295,3/18/2025,3/28/2025,53.28,Rwanda,Jonesland,Fedex,10,ontime,No
+ORD1201,CUST599,9/6/2025,9/10/2025,38.71,Saint Barthelemy,Williamview,Ups,4,ontime,No
+ORD1161,CUST498,1/2/2025,1/15/2025,60.49,Denmark,Harrytown,Dhl,13,late,No
+ORD1043,CUST713,12/1/2024,12/7/2024,51.42,Mauritius,Lake Selena,Dhl,6,ontime,No
+ORD1217,CUST114,8/6/2025,8/18/2025,55.74,Peru,Finleyfort,Ups,12,late,No
+ORD1401,CUST279,11/24/2024,11/27/2024,41.12,North Macedonia,Davidport,Fedex,3,ontime,No
+ORD1190,CUST901,8/8/2025,8/9/2025,37.98,Central African Republic,Robertfort,Usps,1,ontime,No
+ORD1309,CUST894,6/18/2025,7/1/2025,26.86,Svalbard & Jan Mayen Islands,East Curtis,Ups,13,late,No
+ORD1259,CUST874,4/12/2025,4/20/2025,64.41,Cote D'Ivoire,Port Molly,Dhl,8,ontime,No
+ORD1105,CUST415,7/19/2025,7/25/2025,90.4,Congo,North Brandon,Dhl,6,ontime,No
+ORD1053,CUST330,8/25/2025,8/27/2025,37.12,Bahamas,South Aaron,Amazon Logistics,2,ontime,No
+ORD1389,CUST838,5/26/2025,6/1/2025,,Guatemala,New Amberport,Amazon Logistics,6,ontime,No
+ORD1001,CUST350,11/2/2024,11/6/2024,18.26,Saint Pierre And Miquelon,Lake Joyside,Dhl,4,ontime,No
+ORD1491,CUST236,7/30/2025,7/31/2025,38.47,Afghanistan,West Stevenside,Ups,1,ontime,No
+ORD1487,CUST144,6/19/2025,6/30/2025,41.75,Oman,Brooksfurt,Ups,11,ontime,No
+ORD1049,CUST371,3/2/2025,3/11/2025,87.88,Burundi,Whitemouth,Usps,9,ontime,No
+ORD1419,CUST872,12/1/2024,12/11/2024,77.19,Myanmar,Brandonport,Usps,10,ontime,No
+ORD1080,CUST169,10/18/2024,10/29/2024,86.87,Guinea,Dicksonberg,Usps,11,ontime,No
+ORD1205,CUST668,7/6/2025,7/19/2025,27.83,Somalia,Morganhaven,Usps,13,late,No
+ORD1034,CUST641,10/12/2024,10/17/2024,97.25,Saint Martin,Cabreraside,Dhl,5,ontime,No
+ORD1430,CUST429,11/2/2024,11/12/2024,50.18,Greece,Unkown,Fedex,10,ontime,No
+ORD1263,CUST418,9/14/2024,9/23/2024,6.3,Guinea-Bissau,New Mario,Usps,9,ontime,No
+ORD1427,CUST729,6/29/2025,7/9/2025,53.17,Cambodia,New William,Usps,10,ontime,No
+ORD1366,CUST333,1/7/2025,1/14/2025,37.2,Malaysia,Haysside,Usps,7,ontime,No
+ORD1091,CUST953,12/21/2024,12/30/2024,71.84,Argentina,New Ryanmouth,Amazon Logistics,9,ontime,No
+ORD1339,CUST162,1/29/2025,2/5/2025,31.21,Philippines,Murrayport,Dhl,7,ontime,No
+ORD1478,CUST224,11/26/2024,11/27/2024,27.65,Montserrat,East Mark,Amazon Logistics,1,ontime,No
+ORD1052,CUST548,11/12/2024,11/21/2024,47.89,Ireland,Olsonfurt,Fedex,9,ontime,No
+ORD1345,CUST436,8/28/2025,9/10/2025,19.02,Cyprus,Unkown,Amazon Logistics,13,late,No
+ORD1264,CUST195,11/15/2024,11/19/2024,99.26,Estonia,East Judyhaven,Dhl,4,ontime,No
+ORD1241,CUST395,7/19/2025,7/27/2025,16.81,French Polynesia,Lindamouth,Ups,8,ontime,No
+ORD1013,CUST180,11/29/2024,12/8/2024,32.85,Paraguay,Jacquelineland,Amazon Logistics,9,ontime,No
+ORD1315,CUST434,7/15/2025,7/27/2025,44.47,Falkland Islands (Malvinas),West Williamport,Fedex,12,late,No
+ORD1088,CUST202,8/10/2025,8/12/2025,56.08,Bangladesh,Michaelhaven,Amazon Logistics,2,ontime,No
+ORD1387,CUST864,11/25/2024,12/4/2024,25.44,British Virgin Islands,Port Charles,Usps,9,ontime,No
+ORD1273,CUST693,8/6/2025,8/17/2025,51.52,Palau,South Shannon,Fedex,11,ontime,No
+ORD1166,CUST324,11/19/2024,11/24/2024,46.4,Austria,Shelleyfort,Dhl,5,ontime,No
+ORD1328,CUST326,1/7/2025,1/18/2025,11.01,Monaco,Schneidermouth,Usps,11,ontime,No
+ORD1497,CUST507,12/13/2024,12/27/2024,56.59,Saint Vincent And The Grenadines,South Scottside,Ups,14,late,No
+ORD1134,CUST411,11/25/2024,11/30/2024,24.97,Taiwan,New Elijahberg,Amazon Logistics,5,ontime,No
+ORD1306,CUST122,3/31/2025,4/14/2025,67.53,Belgium,Unkown,Ups,14,late,No
+ORD1485,CUST657,10/2/2024,10/11/2024,79.71,Vietnam,South Anthonychester,Amazon Logistics,9,ontime,No
+ORD1319,CUST864,5/20/2025,6/3/2025,37.18,Comoros,Cassidyhaven,Dhl,14,late,No
+ORD1243,CUST652,5/28/2025,6/5/2025,,Indonesia,Christopherfurt,Amazon Logistics,8,ontime,No
+ORD1054,CUST667,2/7/2025,2/11/2025,60.9,Estonia,Mitchellside,Dhl,4,ontime,No
+ORD1363,CUST540,3/8/2025,3/10/2025,80.34,Qatar,Welchberg,Dhl,2,ontime,No
+ORD1050,CUST316,12/15/2024,12/24/2024,76.75,Tunisia,South Lindseyside,Fedex,9,ontime,No
+ORD1460,CUST614,11/20/2024,11/29/2024,44.77,Vietnam,Nancytown,Fedex,9,ontime,No
+ORD1174,CUST384,11/8/2024,11/21/2024,95.36,Dominican Republic,New Charles,Usps,13,late,No
+ORD1445,CUST195,6/4/2025,6/15/2025,68.69,Romania,Stewartstad,Amazon Logistics,11,ontime,No
+ORD1189,CUST924,1/22/2025,1/24/2025,80.64,Ireland,Manuelville,Amazon Logistics,2,ontime,No
+ORD1340,CUST968,7/8/2025,7/22/2025,48.2,Hong Kong,Burchborough,Fedex,14,late,No
+ORD1463,CUST995,12/23/2024,12/29/2024,57.68,Congo,West Franciscomouth,Dhl,6,ontime,No
+ORD1187,CUST807,2/27/2025,3/13/2025,64.59,United States Virgin Islands,Howardshire,Dhl,14,late,No
+ORD1169,CUST737,1/4/2025,1/13/2025,7.56,Belize,North Angela,Usps,9,ontime,No
+ORD1058,CUST319,10/10/2024,10/19/2024,17.57,Thailand,North Brooke,Amazon Logistics,9,ontime,No
+ORD1048,CUST775,7/16/2025,7/24/2025,94.95,Tokelau,East Jamesside,Fedex,8,ontime,No
+ORD1344,CUST312,12/23/2024,1/2/2025,25.52,Korea,Port Samuel,Fedex,10,ontime,No
+ORD1235,CUST823,6/29/2025,7/4/2025,71.78,Saint Helena,Lake Colton,Usps,5,ontime,No
+ORD1252,CUST437,7/29/2025,8/5/2025,70.9,Liechtenstein,Crosbyview,Ups,7,ontime,No
+ORD1021,CUST267,8/23/2025,8/31/2025,41.05,Myanmar,Coxberg,Amazon Logistics,8,ontime,No
+ORD1313,CUST416,5/16/2025,5/29/2025,46.88,North Macedonia,Michellemouth,Amazon Logistics,13,late,No
+ORD1459,CUST551,9/6/2025,9/14/2025,78.1,Uruguay,Port Randyfort,Unspecified,8,ontime,No
+ORD1160,CUST525,3/16/2025,3/17/2025,24.65,Falkland Islands (Malvinas),Tinaborough,Usps,1,ontime,No
+ORD1276,CUST429,2/1/2025,2/15/2025,22.92,Zimbabwe,Lake Sandra,Fedex,14,late,No
+ORD1443,CUST672,5/3/2025,5/10/2025,66.13,Liberia,East Joshua,Ups,7,ontime,No
+ORD1191,CUST777,12/29/2024,1/4/2025,11.55,Panama,Cervantesside,Ups,6,ontime,No
+ORD1385,CUST679,2/6/2025,2/17/2025,43.07,United States Minor Outlying Islands,West Kimberlymouth,Fedex,11,ontime,No
+ORD1293,CUST147,6/29/2025,7/5/2025,80.63,Malaysia,West Russellport,Ups,6,ontime,No
+ORD1413,CUST441,1/10/2025,1/23/2025,20.97,Dominican Republic,Martinezmouth,Amazon Logistics,13,late,No
+ORD1343,CUST905,6/12/2025,6/22/2025,24.49,Tanzania,West Christopherburgh,Amazon Logistics,10,ontime,No
+ORD1257,CUST773,5/16/2025,5/30/2025,56.55,Northern Mariana Islands,North Kristinbury,Unspecified,14,late,No
+ORD1308,CUST720,10/23/2024,11/4/2024,52.19,Marshall Islands,Port Michael,Ups,12,late,No
+ORD1149,CUST672,4/18/2025,4/28/2025,35.14,New Zealand,Rogersfort,Usps,10,ontime,No
+ORD1130,CUST434,3/4/2025,3/11/2025,71.23,Greece,Kathleenfurt,Amazon Logistics,7,ontime,No
+ORD1151,CUST536,7/15/2025,7/29/2025,,Eritrea,Joshuaview,Usps,14,late,No
+ORD1359,CUST175,5/13/2025,5/15/2025,35.6,Iceland,Jontown,Fedex,2,ontime,No
+ORD1099,CUST145,5/6/2025,5/7/2025,36.69,Montenegro,Richardtown,Fedex,1,ontime,No
+ORD1372,CUST669,12/21/2024,12/22/2024,1000,Spain,Lake Rogerchester,Amazon Logistics,1,ontime,No
+ORD1087,CUST109,12/4/2024,12/12/2024,64.01,Anguilla,South Mark,Amazon Logistics,8,ontime,No
+ORD1458,CUST955,12/8/2024,12/12/2024,39.94,Martinique,East Robertburgh,Amazon Logistics,4,ontime,No
+ORD1330,CUST243,1/27/2025,1/28/2025,94.89,Andorra,Kyleborough,Ups,1,ontime,No
+ORD1214,CUST841,10/17/2024,10/27/2024,97.78,Malta,Smithberg,Amazon Logistics,10,ontime,No
+ORD1466,CUST560,5/15/2025,5/24/2025,19,Ukraine,Wilcoxhaven,Usps,9,ontime,No
+ORD1121,CUST139,7/29/2025,7/31/2025,61.67,Italy,Steinshire,Ups,2,ontime,No
+ORD1479,CUST568,3/30/2025,4/1/2025,15.53,Kenya,Lake Jamieshire,Usps,2,ontime,No
+ORD1020,CUST750,12/13/2024,12/16/2024,55.74,Samoa,Juliechester,Fedex,3,ontime,No
+ORD1188,CUST813,2/25/2025,3/10/2025,33.65,North Macedonia,Costafort,Amazon Logistics,13,late,No
+ORD1071,CUST160,11/29/2024,12/2/2024,41,Saint Barthelemy,Jamesview,Usps,3,ontime,No
+ORD1106,CUST466,3/12/2025,3/16/2025,69.8,New Zealand,South Robertshire,Dhl,4,ontime,No
+ORD1270,CUST984,1/12/2025,1/14/2025,31.24,New Caledonia,North David,Usps,2,ontime,No
+ORD1348,CUST212,9/5/2025,9/16/2025,87.31,Bolivia,Laceyberg,Fedex,11,ontime,No
+ORD1435,CUST481,4/21/2025,4/26/2025,41.8,Denmark,New Timothyhaven,Unspecified,5,ontime,No
+ORD1102,CUST214,5/29/2025,5/31/2025,94.78,Croatia,Leonburgh,Fedex,2,ontime,No
